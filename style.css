@@ -1,0 +1,116 @@
+html {
+ background-color: #2C3531;
+    
+}
+body{
+    background-color: #116466;
+    width: 1300px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 45px 45px 45px 45px;
+    text-align: center
+    
+    
+}
+
+#header{
+    background-color: #D9B08C;
+    height: 150px;
+    width: 1150px;
+    text-align: center;
+    border-radius: 45px 45px 45px 45px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    vertical-align: middle;
+    line-height: 130px;
+    
+}
+
+#nav{
+    background-color: #FFCB9A;
+    height: 600px;
+    width: 200px;
+    margin-left: 50px;
+    border-radius: 45px 45px 45px 45px;
+    text-align: center;
+    margin-top:50px;
+    font-family: cursive;
+}
+#mainarea{
+    background-color: brown;
+    height: 400px;
+    width: 750px;
+    margin-right: auto;
+    margin-left: 350px;
+    border-radius: 45px 45px 45px 45px;
+    margin-bottom:40px;
+    margin-top: -600px;
+    text-align: center;
+    font-family: cursive;
+}
+#footer{
+    background-color: #D9B08C;
+    height:40px;
+    width: 1150px;
+    border-radius: 45px 45px 45px 45px;
+    margin-right:auto;
+    margin-left: auto;
+    margin-top: 400px;
+    text-align: center;
+    font-family: cursive;
+    
+}
+h1{
+    font-family: cursive;
+    font-size: 62px;
+    text-shadow: 2px 7px 8px #FF0000;;
+    
+}
+h2{
+    text-decoration:underline;
+}
+h4{
+    text-align: center;
+    
+    
+}
+ul{
+    list-style:none;
+    padding-left:25px;
+    text-align: left;
+    
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: #116466;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    color: black;
+}
+.container{
+    width:70%;
+    margin:20px auto;
+    overflow:auto;
+}
+header{
+    background:#1f88f4;
+    color:#ffffff
+    padding: 5px 10px;
+    overflow:auto;
+    font-size: 15px;
+}
+#constructionlist{
+    text-align:left;
+    
+}
+#availablelist{
+    text-align:left;
+    
+}
